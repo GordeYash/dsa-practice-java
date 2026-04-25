@@ -22,7 +22,8 @@ Each problem is solved with an optimized approach and includes time & space comp
 ---
 
 ## 📁 Folder Structure
-```dsa-practice/
+```
+dsa-practice/
 ├── Arrays/
 ├── Strings/
 ├── LinkedList/
